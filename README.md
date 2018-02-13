@@ -57,5 +57,7 @@ In server, used nodemon and --inspect .eg nodemon --inspect ./bin/www, which is 
 For help see https://nodejs.org/en/docs/inspector
 
 
-
+# Tech stack version
+React fibre i.e 16.x
+Node 9.4.0
 
