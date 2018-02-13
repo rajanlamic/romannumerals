@@ -17,7 +17,7 @@ npm start
 Client app will be running at http://localhost:3000/
 
 
-# Approached use
+# Approach use
 
 For server used express generator to build scafolding app and added routes for api, currently for /romannumerals/:upperLimit?
 
